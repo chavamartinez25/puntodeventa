@@ -1,0 +1,16 @@
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Datos.dll
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Datos.pdb
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Entidades.pdb
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.csprojAssemblyReference.cache
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.csproj.CopyComplete
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.dll
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.pdb
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Datos.dll
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Datos.pdb
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\bin\Debug\SistemaVentas.Entidades.pdb
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.csprojAssemblyReference.cache
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.csproj.CopyComplete
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.dll
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Datos\obj\Debug\SistemaVentas.Datos.pdb

@@ -1,0 +1,10 @@
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Entidades\bin\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Entidades\bin\Debug\SistemaVentas.Entidades.pdb
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.csprojAssemblyReference.cache
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Documentos\Curso.NET\Proyecto\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.pdb
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Entidades\bin\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Entidades\bin\Debug\SistemaVentas.Entidades.pdb
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.csprojAssemblyReference.cache
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.dll
+C:\Users\SALVA\OneDrive\Escritorio\RepositorioSistemaVentas\SistemaVentas\SistemaVentas\SistemaVentas.Entidades\obj\Debug\SistemaVentas.Entidades.pdb
